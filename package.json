@@ -1,0 +1,14 @@
+{
+  "name": "emprender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Edgardo Mojica <ejmojicadev98@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
